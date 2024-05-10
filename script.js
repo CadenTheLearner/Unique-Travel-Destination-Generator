@@ -207,4 +207,7 @@ function myFunction()
 
     const place = locs[x];
     document.getElementById("name").innerHTML = place;
+
+    console.log(place);
+
 }

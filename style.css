@@ -367,3 +367,19 @@ button:hover {
 
   }
 }
+
+.lol{
+  padding: 15px 15px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 250;
+  font-size: 7em;
+  text-align: center;
+  color: #fff;
+  background: radial-gradient(circle, rgb(195, 138, 138) 17%, rgb(142, 249, 164) 45%, rgb(101, 208, 208) 91%);
+
+} 
